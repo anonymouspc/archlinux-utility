@@ -1,10 +1,10 @@
-pkgname=paru-pkgbuild
+pkgname=paru-meta
 pkgver=1
 pkgrel=1
-pkgdesc=paru-pkgbuild
+pkgdesc=paru-meta
 arch=(any)
 license=(GPL)
-url=https://github.com/anonymouspc/arch
+url=https://github.com/anonymouspc/archlinux-utility
 depends=(paru debugedit fakeroot patch pkgconf)
 
 package() { 
